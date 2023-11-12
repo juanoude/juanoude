@@ -2,7 +2,7 @@
 [![linkedin profile](https://raw.githubusercontent.com/juanoude/juanoude/main/img/linkedin.svg =30x30)](https://www.linkedin.com/in/juanoude-aab492141/) 
 * 👨🏼‍💻 Mid-Level developer at [Full Stack Labs](https://www.fullstacklabs.co/)
 * 🌐 Full Stack Developer
-* 
+* 👾 Developing first 
 
 <!--
 **juanoude/juanoude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAwODk0OTJdfQ==
+eyJoaXN0b3J5IjpbMjAwMDMwNzIsLTE1MjAwODk0OTJdfQ==
 -->
