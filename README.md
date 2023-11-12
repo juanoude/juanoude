@@ -1,5 +1,5 @@
 # 💻 Hello! Welcome to my GitHub profile! 🌎
-
+[https://github.com/juanoude/juanoude/img/linkedin.png]()
 
 
 <!--
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMDk0MTc4MDZdfQ==
 -->
