@@ -1,6 +1,7 @@
 # 💻 Hello! Welcome to my GitHub profile! 🌎
 [![linkedin profile](https://raw.githubusercontent.com/juanoude/juanoude/main/img/linkedin.svg =30x30)](https://www.linkedin.com/in/juanoude-aab492141/) 
-* Mid-Level developer at Full Stack Labs
+* 👨🏼‍💻 Mid-Level developer at Full Stack Labs
+* 🌐 Full Stack Developer
 * 
 
 <!--
@@ -18,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM4ODU4MTZdfQ==
+eyJoaXN0b3J5IjpbNTc4NjcyNjI3XX0=
 -->
