@@ -1,5 +1,5 @@
 # 💻 Hello! Welcome to my GitHub profile! 🌎
-[https://github.com/juanoude/juanoude/img/linkedin.png]()
+![a](https://raw.githubusercontent.com/juanoude/juanoude/main/img/linkedin.svg)
 
 
 <!--
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk0MTc4MDZdfQ==
+eyJoaXN0b3J5IjpbODU5MDYzNzkzXX0=
 -->
