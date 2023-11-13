@@ -5,7 +5,7 @@
 * 👾 Developing my own app
 ------
 ### Experienced in
-![git](https://raw.githubusercontent.com/juanoude/juanoude/main/img/git.svg =30x30) ![html 5](https://raw.githubusercontent.com/juanoude/juanoude/main/img/html5.svg =30x30) ![css 3](https://raw.githubusercontent.com/juanoude/juanoude/main/img/css3.svg =30x30)![javascript](https://raw.githubusercontent.com/juanoude/juanoude/main/img/js.svg =30x30) ![typescript](https://raw.githubusercontent.com/juanoude/juanoude/main/img/ts.svg =30x30) ![typescript](https://raw.githubusercontent.com/juanoude/juanoude/main/img/nodejs.svg =30x30) ![nestjs](https://raw.githubusercontent.com/juanoude/juanoude/main/img/nest-js.svg =30x30) ![react](https://raw.githubusercontent.com/juanoude/juanoude/main/img/react.svg =30x30) ![react native](https://raw.githubusercontent.com/juanoude/juanoude/main/img/react-native.png =30x30) ![angular](https://raw.githubusercontent.com/juanoude/juanoude/main/img/angular.svg =30x30)
+![git](https://raw.githubusercontent.com/juanoude/juanoude/main/img/git.svg =30x30) ![html 5](https://raw.githubusercontent.com/juanoude/juanoude/main/img/html5.svg =30x30) ![css 3](https://raw.githubusercontent.com/juanoude/juanoude/main/img/css3.svg =30x30)![javascript](https://raw.githubusercontent.com/juanoude/juanoude/main/img/js.svg =30x30) ![typescript](https://raw.githubusercontent.com/juanoude/juanoude/main/img/ts.svg =30x30) ![typescript](https://raw.githubusercontent.com/juanoude/juanoude/main/img/nodejs.svg =30x30) ![nestjs](https://raw.githubusercontent.com/juanoude/juanoude/main/img/nest-js.svg =30x30)  ![angular](https://raw.githubusercontent.com/juanoude/juanoude/main/img/angular.svg =30x30) ![react](https://raw.githubusercontent.com/juanoude/juanoude/main/img/react.svg =30x30) ![react native](https://raw.githubusercontent.com/juanoude/juanoude/main/img/react-native.png =30x30) 
 
 <!--
 **juanoude/juanoude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzQ5NDA5MywtNjU2NDAzOCwtMTUyMD
+eyJoaXN0b3J5IjpbMTI4OTAzMjQwNSwtNjU2NDAzOCwtMTUyMD
 A4OTQ5Ml19
 -->
