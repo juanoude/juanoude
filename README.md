@@ -12,24 +12,7 @@
 
 ### Dedicated to master
 ![golang](https://raw.githubusercontent.com/juanoude/juanoude/main/img/golang.svg =30x30) ![flutter](https://raw.githubusercontent.com/juanoude/juanoude/main/img/flutter.svg =30x30)
-
-
-
-<!--
-**juanoude/juanoude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTYxNDA1NiwxMjg5MDMyNDA1LC02NT
-Y0MDM4LC0xNTIwMDg5NDkyXX0=
+eyJoaXN0b3J5IjpbMzA2OTIzOTE4LDIwNzE2MTQwNTYsMTI4OT
+AzMjQwNSwtNjU2NDAzOCwtMTUyMDA4OTQ5Ml19
 -->
