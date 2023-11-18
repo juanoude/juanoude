@@ -1,5 +1,5 @@
 # 💻 Hello! Welcome to my GitHub profile! 🌎
-[![linkedin profile](https://raw.githubusercontent.com/juanoude/juanoude/main/img/linkedin.svg =30x30)](https://www.linkedin.com/in/juanoude-aab492141/) [![leetcode profile](https://raw.githubusercontent.com/juanoude/juanoude/main/img/leetcode.svg =30x30)](https://leetcode.com/juanoude/) 
+[<img src="https://raw.githubusercontent.com/juanoude/juanoude/main/img/linkedin.svg" height="30" width="30" />](https://www.linkedin.com/in/juanoude-aab492141/) [<img src="https://raw.githubusercontent.com/juanoude/juanoude/main/img/leetcode.svg" height="30" width="30" />](https://leetcode.com/juanoude/) 
 * 👨🏼‍💻 Mid-Level developer at [Full Stack Labs](https://www.fullstacklabs.co/)
 * 🌐 Full Stack Developer
 * 👾 Developing my own app
@@ -14,6 +14,6 @@
 ### Dedicated to master
 <img src="https://raw.githubusercontent.com/juanoude/juanoude/main/img/golang.svg" height="30" width="30" /> <img src="https://raw.githubusercontent.com/juanoude/juanoude/main/img/flutter.svg" height="30" width="30" /> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTcxODk0MSwyMDcxNjE0MDU2LDEyOD
+eyJoaXN0b3J5IjpbLTM1NzAwODM4NCwyMDcxNjE0MDU2LDEyOD
 kwMzI0MDUsLTY1NjQwMzgsLTE1MjAwODk0OTJdfQ==
 -->
